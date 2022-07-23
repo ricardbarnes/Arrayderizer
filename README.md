@@ -55,7 +55,7 @@ _Of course, an associative array builder implementation (and maybe some more thi
 #### How does it work?
 Fundamentally, it's just a pHTML class extension that handles the array information and passes it throught a simple recursive function that builds up all the document structure.
 ### Keywords
-The framework keywords explain themselves, but, here goes the reference:
+The library keywords explain themselves, but, here goes the reference:
 
 * ```element```
 
